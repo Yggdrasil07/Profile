@@ -16,7 +16,7 @@ $ThanhDieuMusicList->CommonMethod();
     <meta name="theme-color" content="#00FFFF">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
     <meta name="description" content="<?=$ThanhDieuHeader->description?>">
-    <meta name="author" content="ThanhDieuTV">
+    <meta name="author" content="PHOENIX-HoangDev">
     <meta name="keywords"
         content="<?=$ThanhDieuHeader->keywords?>">
     <meta name="robots" content="index, follow">
@@ -49,7 +49,7 @@ $ThanhDieuMusicList->CommonMethod();
             </div>
             <div class="infos">
                 <div class="logo-web-title">
-                    <img class="logo-ws" src="https://i.imgur.com/dxVZLOG.png" alt="Vương Thanh Diệu">
+                    <img class="logo-ws" src="https://files.catbox.moe/z8d8dh.jpg" alt="Hoàng Nguyễn">
                     <span class="web-title">
                         <!-- <span class="td-lock"></span>𝗟𝗼𝗰𝗸 𝗦𝗰𝗿𝗲𝗲𝗻 <span class="td-lock"></span> -->
                   𝑻𝒉𝒂𝒏𝒉𝑫𝒊𝒆𝒖
