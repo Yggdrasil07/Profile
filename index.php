@@ -52,7 +52,7 @@ $ThanhDieuMusicList->CommonMethod();
                     <img class="logo-ws" src="https://files.catbox.moe/z8d8dh.jpg" alt="Hoàng Nguyễn">
                     <span class="web-title">
                         <!-- <span class="td-lock"></span>𝗟𝗼𝗰𝗸 𝗦𝗰𝗿𝗲𝗲𝗻 <span class="td-lock"></span> -->
-                  𝑻𝒉𝒂𝒏𝒉𝑫𝒊𝒆𝒖
+                  𝕻𝖍𝖔𝖊𝖓𝖎𝖝
                     </span>
                 </div>
                 <span class="web_desc"></span>
