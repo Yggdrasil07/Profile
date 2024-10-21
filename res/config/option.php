@@ -12,7 +12,7 @@ class ThanhDieuHeader implements ThanhDieuConfigInterface {
     public $keywords = "phoenix,web phoenix,hoang nguyen,hoangdev,phoenix home,profile phoenix";
     public $favicon = "./res/v5/img/logo.jpg";
     public $namesite = "PHOENIX | HOME";
-    public $avatar = "./res/v5/img/avatar.gif";
+    public $avatar = "./res/v5/img/IMG_1729269966555_1729271258874.jpg";
     public $userName = ["Hello Everybody", "My name is Phoenix.", "I really like botchat design 🌭"];
     public $trigger = "👉 Tìm hiểu tôi 😶&zwj;🌫️";
     public $bio1 = "🤖️ Người đam mê công nghệ số";
