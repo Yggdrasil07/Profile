@@ -106,6 +106,12 @@ class ThanhDieuMusicList implements ThanhDieuConfigInterface {
             "title" => "Old town road",
             "author" => "Lil Nas X"
         ],
+        [
+            "url" => "https://files.catbox.moe/vdm5ri.mp3",
+            "avatar" => "https://i.ibb.co/jGn2JJZ/Screenshot-2024-10-21-20-17-15-869-com-google-android-youtube.png",
+            "title" => "Nhạc truyền cảm hứng, động lực",
+            "author" => "HC Music"
+        ],
 // Thêm nhạc tại đây
     ];
     public function CommonMethod() {}
