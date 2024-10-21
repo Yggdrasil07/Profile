@@ -23,7 +23,7 @@ $ThanhDieuMusicList->CommonMethod();
     <meta property="og:type" content="website">
     <link rel="shortcut icon" href="<?=$ThanhDieuHeader->favicon?>?v=<?=rand(1,999)?>" type="image/x-icon">
     <meta property="og:title" content="<?=$ThanhDieuHeader->title?>">
-    <meta property="og:url" content="//thanhdieu.com">
+    <meta property="og:url" content="//phoenix.com">
     <meta property="og:image" content="./res/v5/img/bg3.webp">
     <title><?=$ThanhDieuHeader->title?></title>
     <!--/ @StyleSheets /-->
