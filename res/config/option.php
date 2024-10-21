@@ -112,6 +112,30 @@ class ThanhDieuMusicList implements ThanhDieuConfigInterface {
             "title" => "Nhạc truyền cảm hứng, động lực",
             "author" => "HC Music"
         ],
+        [
+            "url" => "",
+            "avatar" => "",
+            "title" => "",
+            "author" => ""
+        ],
+        [
+            "url" => "",
+            "avatar" => "",
+            "title" => "",
+            "author" => ""
+        ],
+        [
+            "url" => "",
+            "avatar" => "",
+            "title" => "",
+            "author" => ""
+        ],
+        [
+            "url" => "",
+            "avatar" => "",
+            "title" => "",
+            "author" => ""
+        ],  
 // Thêm nhạc tại đây
     ];
     public function CommonMethod() {}
