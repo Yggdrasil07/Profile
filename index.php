@@ -138,7 +138,7 @@ $ThanhDieuMusicList->CommonMethod();
                     <span class="tag"><?=$ThanhDieuHeader->bio3?></span>
                 </div>
                 <div class="avatar">
-                    <img class="avatar-img" src="<?=$ThanhDieuHeader->avatar?>?v=<?=rand(1,999)?>" alt="Vương Thanh Diệu">
+                    <img class="avatar-img" src="<?=$ThanhDieuHeader->avatar?>?v=<?=rand(1,999)?>" alt="Hoàng Nguyễn">
                     <img class="crown" src="./res/v5/img/crown/mong-vuot-rong.png">
                     <!-- <img class="crown2" src="./res/v5/img/crown/vip-crown.png"> -->
                 </div>
@@ -206,7 +206,7 @@ $ThanhDieuMusicList->CommonMethod();
             </div>
         </div>
     </main>
-    <!--/ @Setting ThanhDieuV5 /-->
+    <!--/ @Setting PhoenixV5 /-->
     <ul class="nk-sticky-toolbar">
         <li class="demo-settings">
             <a class="toggle tipinfo" data-target="SettingPanel">
