@@ -91,12 +91,12 @@ $ThanhDieuMusicList->CommonMethod();
                             <i class="ri-facebook-circle-fill"></i>
                         </span>
                         <span class="td-btn"
-                            onclick="window.open('https://www.messenger.com/t/' + encodeURIComponent('wusthanhdieu'),'top');"
+                            onclick="window.open('https://www.messenger.com/t/' + encodeURIComponent('Phoenix.2417'),'top');"
                             style="color:#00A0DC;font-size: 1.5rem;" type="submit">
                             <i class="ri-messenger-fill"></i>
                         </span>
                         <span class="td-btn"
-                            onclick="window.open('https://t.me/share/url?url=' + encodeURIComponent(window.location.href),'top');"
+                            onclick="window.open('https://www.threads.net/' + (''),'top');"
                             style="color:#03A5F0;font-size: 1.5rem;" type="submit">
                             <i class="ri-telegram-line"></i>
                         </span>
