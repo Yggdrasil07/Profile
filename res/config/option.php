@@ -1,14 +1,14 @@
 <?php
 /**
  * @package thanhdieuv5 (tester)
- * @author  Vương Thanh Diệu <www.facebok.com/phoenix.2417>
+ * @author  Vương Thanh Diệu 
  */
 interface ThanhDieuConfigInterface {
     public function CommonMethod();
 }
 class ThanhDieuHeader implements ThanhDieuConfigInterface {
     public $title = "Nguyễn văn Huy Hoàng | Resources V5";
-    public $description = "Hi my name is Phoenix / A freelance / botchat developer";
+    public $description = "Hi my name is Phoenix / botchat developer";
     public $keywords = "phoenix,web phoenix,hoang nguyen,hoangdev,phoenix home,profile phoenix";
     public $favicon = "./res/v5/img/logo.jpg";
     public $namesite = "PHOENIX | HOME";
@@ -18,7 +18,7 @@ class ThanhDieuHeader implements ThanhDieuConfigInterface {
     public $bio1 = "🤖️ Người đam mê công nghệ số";
     public $bio2 = "🔍 Chia sẻ và giúp đỡ nhiệt tình";
     public $bio3 = "💻 Phát triển botchat Messenger";
-    public $bio4 = "không thích làm idol tiktok 🥳";
+    public $bio4 = "Cháu ngoan Bác Hồ";
     public $bio5 = "Ăn, ngủ, làm và học code 🎮";
     public $bio6 = "Kẻ khờ dại tin vào tình yêu ✨";
     public $SocialNetworks = [
@@ -100,7 +100,13 @@ class ThanhDieuMusicList implements ThanhDieuConfigInterface {
             "title" => "Anh Đã Quen Với Cô Đơn",
             "author" => "Soobin Hoàng Sơn"
         ],
-        // Thêm nhạc tại đây
+        [
+            "url" => "https://files.catbox.moe/kg5hco.mp3",
+            "avatar" => "https://i.ibb.co/GM43qx9/Screenshot-2024-10-21-20-01-27-985-com-android-chrome.png",
+            "title" => "Old town road",
+            "author" => "Lil Nas X"
+        ],
+// Thêm nhạc tại đây
     ];
     public function CommonMethod() {}
 }
