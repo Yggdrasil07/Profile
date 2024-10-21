@@ -23,9 +23,9 @@ class ThanhDieuHeader implements ThanhDieuConfigInterface {
     public $bio6 = "Kẻ khờ dại tin vào tình yêu ✨";
     public $SocialNetworks = [
         "facebook" => "https://www.facebook.com/Phoenix.2417", // Thay link facebook
-        "instagram" => "", // Thay link instagram
-        "tiktok" => "", // Thay link tiktok
-        "threads" => "" // Thay link threads
+        "instagram" => "https://www.instagram.com/nguyen_hoang_007?igsh=MWd5bm15d3N0d3JuOA==", // Thay link instagram
+        "tiktok" => "https://www.tiktok.com/@taodangtapcode?_t=8qiMPrNSCB6&_r=1", // Thay link tiktok
+        "threads" => "https://www.threads.net/@nguyen_hoang_007" // Thay link threads
     ];
     public function CommonMethod(){date_default_timezone_set('Asia/Ho_Chi_Minh');}
 }
