@@ -2,6 +2,7 @@
 /**
  * @package thanhdieuv5 (tester)
  * @author  Vương Thanh Diệu 
+ * @mod Hoàng Nguyễn 
  */
 interface ThanhDieuConfigInterface {
     public function CommonMethod();
@@ -112,7 +113,25 @@ class ThanhDieuMusicList implements ThanhDieuConfigInterface {
             "title" => "Nhạc truyền cảm hứng, động lực",
             "author" => "HC Music"
         ],
-// Thêm nhạc tại đây
+        [
+            "url" => "",
+            "avatar" => "",
+            "title" => "Có chắc yêu là đây",
+            "author" => "Sơn Tùng M-TP"
+        ],
+        [
+            "url" => "",
+            "avatar" => "",
+            "title" => "Lạc Trôi",
+            "author" => "Sơn Tùng M-TP"
+        ],
+        [
+            "url" => "",
+            "avatar" => "",
+            "title" => "Fire",
+            "author" => "Alan Walker"
+        ],
+    // Thêm nhạc tại đây
     ];
     public function CommonMethod() {}
 }
