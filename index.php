@@ -96,7 +96,7 @@ $ThanhDieuMusicList->CommonMethod();
                             <i class="ri-messenger-fill"></i>
                         </span>
                         <span class="td-btn"
-                            onclick="window.open('https://www.threads.net/' + (''),'top');"
+                            onclick="window.open('https://www.threads.net/' + ('nguyen_hoang_007'),'top');"
                             style="color:#03A5F0;font-size: 1.5rem;" type="submit">
                             <i class="ri-telegram-line"></i>
                         </span>
