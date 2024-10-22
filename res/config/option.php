@@ -96,10 +96,10 @@ class ThanhDieuMusicList implements ThanhDieuConfigInterface {
             "author" => "Như Việt"
         ],
         [
-            "url" => "https://files.catbox.moe/dvjckq.mp3",
-            "avatar" => "https://i.ibb.co/VpFyXhS/ab44498b5b432879428719390baf1180-1490064587.jpg",
-            "title" => "Anh Đã Quen Với Cô Đơn",
-            "author" => "Soobin Hoàng Sơn"
+            "url" => "https://files.catbox.moe/w24ga4.mp3",
+            "avatar" => "https://i.ibb.co/8mMTzqH/Screenshot-2024-10-22-09-42-45-636-com-google-android-youtube.png",
+            "title" => "Trói em lại",
+            "author" => "Quang Hùng MasterD"
         ],
         [
             "url" => "https://files.catbox.moe/kg5hco.mp3",
@@ -132,10 +132,10 @@ class ThanhDieuMusicList implements ThanhDieuConfigInterface {
             "author" => "ILLIT"
         ],
         [
-            "url" => "",
-            "avatar" => "",
-            "title" => "",
-            "author" => ""
+            "url" => "https://files.catbox.moe/jlmlfm.mp3",
+            "avatar" => "https://i.ibb.co/ZLd9kBw/Screenshot-2024-10-22-09-46-46-026-com-google-android-youtube.png",
+            "title" => "Nevada",
+            "author" => "VICETONE"
         ],  
 // Thêm nhạc tại đây
     ];
