@@ -84,10 +84,10 @@ class ThanhDieuMusicList implements ThanhDieuConfigInterface {
             "author" => "Phong Max"
         ],
         [
-            "url" => "https://files.catbox.moe/s8opab.mp3",
-            "avatar" => "https://i.ibb.co/6R8V7S7/ed0741228ad36870e13624120474e50a.jpg",
-            "title" => "Sau Lời Từ Khước",
-            "author" => "Phan Mạnh Quỳnh"
+            "url" => "https://files.catbox.moe/89zswb.mp3",
+            "avatar" => "https://i.ibb.co/j9CLnYG/Screenshot-2024-10-22-08-51-54-731-com-google-android-youtube.png",
+            "title" => "Monody",
+            "author" => "TheFatRat"
         ],
         [
             "url" => "https://files.catbox.moe/gvqgma.mp3",
