@@ -16,7 +16,7 @@
 _(Sài termux hoặc Command)_
 
 ```sh
-git clone https://github.com/WusThanhDieu/Profile-ThanhDieu.Com-V5-Tester.git
+git clone https://github.com/Yggdrasil07/Profile.git
 ```
 
 ## Hướng Dẫn
