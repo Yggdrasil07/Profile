@@ -2,6 +2,7 @@
 /**
  * @package thanhdieuv5 (tester)
  * @author  Vương Thanh Diệu 
+ * @mod Hoàng Nguyễn
  */
 interface ThanhDieuConfigInterface {
     public function CommonMethod();
@@ -113,22 +114,22 @@ class ThanhDieuMusicList implements ThanhDieuConfigInterface {
             "author" => "HC Music"
         ],
         [
-            "url" => "",
-            "avatar" => "",
-            "title" => "",
-            "author" => ""
+            "url" => "https://files.catbox.moe/7i708s.mp3",
+            "avatar" => "https://i.ibb.co/WHGnrgC/Screenshot-2024-10-22-06-53-31-730-com-google-android-youtube.png",
+            "title" => "Fire",
+            "author" => "Alan Walker"
         ],
         [
-            "url" => "",
-            "avatar" => "",
-            "title" => "",
-            "author" => ""
+            "url" => "https://files.catbox.moe/ejay1r.mp3",
+            "avatar" => "https://i.ibb.co/tMspS2P/Screenshot-2024-10-22-06-51-27-018-com-google-android-youtube.png",
+            "title" => "Có chắc yêu là đây",
+            "author" => "Sơn Tùng M-TP"
         ],
         [
-            "url" => "",
-            "avatar" => "",
-            "title" => "",
-            "author" => ""
+            "url" => "https://files.catbox.moe/mmqj9p.mp3",
+            "avatar" => "https://i.ibb.co/V3J46vz/Screenshot-2024-10-22-06-55-34-285-com-google-android-youtube.png",
+            "title" => "Magnetic",
+            "author" => "ILLIT"
         ],
         [
             "url" => "",
